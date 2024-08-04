@@ -1,0 +1,23 @@
+{
+  "name": "nodemailer",
+  "version": "1.0.0",
+  "description": "Practice to send emails.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhinav-Agg/Practice_NodeMailer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhinav-Agg/Practice_NodeMailer/issues"
+  },
+  "homepage": "https://github.com/Abhinav-Agg/Practice_NodeMailer#readme",
+  "dependencies": {
+    "nodemailer": "^6.9.14",
+    "nodemon": "^3.1.4"
+  }
+}
