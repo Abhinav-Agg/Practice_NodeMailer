@@ -1,2 +1,5 @@
-# practice_smtp-server
-understand SMTP Server how to create.
+# Practice NodeMailer
+How to Implement Nodemailer.
+
+-> Install node modules.
+-> Use gmailId for from address and add less secure password for authorization.
